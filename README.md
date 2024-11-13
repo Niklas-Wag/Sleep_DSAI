@@ -1,1 +1,3 @@
-# Sleep_DSAI
+# DSAI project of
+- Valentin Zahrhuber
+- Niklas Wageneder
